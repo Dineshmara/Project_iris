@@ -10,3 +10,9 @@ source venv\bin\activate
 
 ## pip install -e . it tries find the setup.py or project.toml files
 
+## Steps for GCP Deployment
+
+Enable all API libraries
+
+- Kubernetes Engine API
+- Cintainer Registry API
